@@ -24,3 +24,6 @@ The clustered diseases are visualized using a scatter plot, with each cluster re
 The script analyzes the relationships between hypertension and anti-hypertensive drugs using an oval diagram.
 The occurrences of hypertension-related diseases in the dataset are counted and stored in a CSV file ('occurence.csv').
 The project provides insights into the associations between hypertension-related genes and diseases, visualizes these relationships in knowledge graphs, and clusters the diseases based on their features. The results can help researchers and medical professionals gain a better understanding of hypertension-related conditions and potential therapeutic targets for anti-hypertensive drugs.
+
+
+The Data can be retrieved from https://drive.google.com/drive/folders/1B0oYERWyp-1GVKEqOhuy0CGgRgwnGYf6?usp=sharing
