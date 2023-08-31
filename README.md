@@ -27,3 +27,6 @@ The project provides insights into the associations between hypertension-related
 
 
 The Data can be retrieved from https://drive.google.com/drive/folders/1B0oYERWyp-1GVKEqOhuy0CGgRgwnGYf6?usp=sharing
+
+
+Cluster wise analysis, example of Cluster 1 : CLuster analysis/all.tgahpzyj7
