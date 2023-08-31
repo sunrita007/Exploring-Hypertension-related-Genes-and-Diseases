@@ -1,0 +1,7 @@
+Network,Annotation
+cluster_1_x_name,GO:0003013|circulatory system process|-24.0;GO:0003018|vascular process in circulatory system|-20.5;GO:0043549|regulation of kinase activity|-20.0
+cluster_1_x_name_MCODE_ALL,R-HSA-9006934|Signaling by Receptor Tyrosine Kinases|-22.1;WP3888|VEGFA-VEGFR2 signaling|-16.1;GO:0032870|cellular response to hormone stimulus|-15.1
+cluster_1_x_name_SUB1_MCODE_1,WP138|Androgen receptor signaling pathway|-8.1;R-HSA-8856825|Cargo recognition for clathrin-mediated endocytosis|-7.8;GO:0090400|stress-induced premature senescence|-7.7
+cluster_1_x_name_SUB1_MCODE_2,R-HSA-9006934|Signaling by Receptor Tyrosine Kinases|-10.4;GO:0009725|response to hormone|-7.4;GO:0032870|cellular response to hormone stimulus|-7.0
+cluster_1_x_name_SUB1_MCODE_3,GDP04398|Mammary Neoplasms|-5.8;GO:1903530|regulation of secretion by cell|-5.8;GDP01073|Cardiovascular Diseases|-5.6
+cluster_1_x_name_SUB1_MCODE_4,WP306|Focal adhesion|-15.3;hsa04510|Focal adhesion|-12.2;R-HSA-372708|p130Cas linkage to MAPK signaling for integrins|-11.9

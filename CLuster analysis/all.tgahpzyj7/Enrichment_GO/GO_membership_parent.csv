@@ -1,0 +1,21 @@
+_MEMBER_cluster_1_x_name,_LogP_cluster_1_x_name,GO,Description,_PATTERN_,_RANK_,CHILD_GO_cluster_1_x_name
+1,-26.739703068371153,GO:0032501,multicellular organismal process,M1,1,GO:0003013 circulatory system process
+1,-19.176122969583485,GO:0008152,metabolic process,M1,1,GO:0043549 regulation of kinase activity
+1,-16.171686416471058,GO:0050896,response to stimulus,M1,1,GO:0007167 enzyme-linked receptor protein signaling pathway
+1,-15.072856111290765,GO:0051179,localization,M1,1,GO:0030001 metal ion transport
+1,-14.613128457067594,GO:0048518,positive regulation of biological process,M1,1,GO:0042327 positive regulation of phosphorylation
+1,-13.603596037419292,GO:0040011,locomotion,M1,1,GO:0030335 positive regulation of cell migration
+1,-13.512660938787906,GO:0065007,biological regulation,M1,1,GO:0051347 positive regulation of transferase activity
+1,-12.813476438768284,GO:0032502,developmental process,M1,1,GO:0007507 heart development
+1,-12.619978073375382,GO:0009987,cellular process,M1,1,GO:0034330 cell junction organization
+1,-11.872920814489676,GO:0040007,growth,M1,1,GO:0040008 regulation of growth
+1,-11.171318401321857,GO:0048519,negative regulation of biological process,M1,1,GO:0008285 negative regulation of cell population proliferation
+1,-10.362653535903082,GO:0050789,regulation of biological process,M1,1,GO:0010810 regulation of cell-substrate adhesion
+1,-9.954683870031012,GO:0048511,rhythmic process,M1,1,GO:0048511 rhythmic process
+1,-9.881209681731363,GO:0002376,immune system process,M1,1,GO:0051251 positive regulation of lymphocyte activation
+1,-9.619279944077672,GO:0042592,homeostatic process,M1,1,GO:0019725 cellular homeostasis
+1,-6.442816135793341,GO:0022414,reproductive process,M1,1,GO:0008585 female gonad development
+1,-6.283477379276161,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0045088 regulation of innate immune response
+1,-4.4792885066222805,GO:0016032,viral process,M1,1,GO:0019058 viral life cycle
+1,-2.6182446719514143,GO:0043473,pigmentation,M1,1,GO:0048753 pigment granule organization
+1,-2.1968697506487835,GO:0098754,detoxification,M1,1,GO:1990748 cellular detoxification
